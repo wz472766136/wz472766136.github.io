@@ -2,6 +2,8 @@
 Welcome! My name is Zhan(Zane) Wang, I am currently a graduate student at Wuhan University, pursuing a Master's in Cyber Security. I received my B.E. degree at Hefei University of Technology in 2017. I research in side channel attack using deep learning technology.
 
 ## Research
+### Image Processing
+![Image Firewall for Filtering Privacy or Sensitive Image Content Based on Joint Sparse Representation](https://doi.org/10.1007/978-3-319-63315-2_48)
 ### IoT Security
 ### Side Channel Attack
 ## Industry
