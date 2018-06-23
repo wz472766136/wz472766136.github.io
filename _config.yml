@@ -1,1 +1,10 @@
+# Site settings
+
 theme: jekyll-theme-minimal
+title: Zane
+SEOTitle: Zane的博客 | Zane Blog
+email: zane.wang@jahport.com
+keyword: "zane"
+url: "https://wz472766136.github.io"
+baseurl: ""
+...
