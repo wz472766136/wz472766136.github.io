@@ -3,7 +3,7 @@ Welcome! My name is Zhan(Zane) Wang, I am currently a graduate student at Wuhan 
 
 ## Research
 ### Image Processing
-![Image Firewall for Filtering Privacy or Sensitive Image Content Based on Joint Sparse Representation](https://doi.org/10.1007/978-3-319-63315-2_48)
+[Image Firewall for Filtering Privacy or Sensitive Image Content Based on Joint Sparse Representation](https://doi.org/10.1007/978-3-319-63315-2_48)
 ### IoT Security
 ### Side Channel Attack
 ## Industry
