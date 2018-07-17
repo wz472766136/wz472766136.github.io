@@ -11,7 +11,7 @@ Welcome! My name is Zhan(Zane) Wang, I am currently a graduate student at Wuhan 
 ![](http://www.jahport.com/image/icon_normal.png)
 ### China ComService
 ![](http://www.chinaccs.com.cn/uploadpic/2016/6/17/16/de41e635-7cf1-424a-a609-50e5e90d89fc.png)
-### China Southern Power Grid
-![](http://www.csg.cn/images/logo.png)
+### China Mobile
+![](https://open.iot.10086.cn/static/files/common/logo.png)
 ## MISC
 ---
